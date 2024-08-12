@@ -19,4 +19,4 @@
 
 ## Visit the web pages
   ### 1. Web page
-  <a href="https://responsive-web-five-sepia.vercel.app/"><img src="https://github.com/user-attachments/assets/35ee6b5d-9774-487a-94c5-3a9bf3dd5251" alt="Pagina de web responsivo"/></a>
+  <a href="https://zingen-music-7f2qxolk2-alvesvns-projects.vercel.app/#pricing"><img src="https://github.com/user-attachments/assets/35ee6b5d-9774-487a-94c5-3a9bf3dd5251" alt="Pagina de web responsivo"/></a>
